@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "earthpaper": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
